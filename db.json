@@ -1,0 +1,196 @@
+{
+  "books":[
+    {
+      "title":"The Perfect Murder",
+      "imageUrl":"https://images-eu.ssl-images-amazon.com/images/I/41QMKIWimFL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "description":"In that dim corner of the cafe was planned the perfect murder. Paul had long since realized that the affair was not so easy of accomplishment as he had so airily suggested. For the thing must be done without violence, without clues, without trace.",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"Ruskin Bond",
+      "price": 152,
+      "section": "Mystery",
+      "isbnNumber": 9788129144973
+    },
+    {
+      "title":"The Big Sleep by Raymond Chandler",
+      "imageUrl":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371584712l/2052.jpg",
+      "description":"A dying millionaire hires private eye Philip Marlowe to handle the blackmailer of one of his two troublesome daughters, and Marlowe finds himself involved with more than extortion. Kidnapping, pornography, seduction, and murder are just a few of the complications he gets caught up in.",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"Raymond Chandler",
+      "price": 551,
+      "section": "Mystery",
+      "isbnNumber": 39475828522
+    },
+    {
+      "title":"The Sane Psychopath",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41X87KdzrDL._SX460_BO1,204,203,200_.jpg",
+      "description":"This is the story of Shanker Lande, driver of a state transport bus, who goes on a bone-chilling hour-long rampage on the streets of Pune—killing 10, maiming 70, and damaging over 100 vehicles, before he is captured.",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"Salil Desai",
+      "price": 155,
+      "section": "Mystery",
+      "isbnNumber": 9388144856
+    },
+    {
+      "title":"The Murder of Sonia Raikkonen: An Inspector Saralkar Mystery",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51HnmcyCQbL._SX460_BO1,204,203,200_.jpg",
+      "description":"Late one November night, the mutilated corpse of a young Finnish tourist is found in a public garden in Pune. It looks like a case of brutal rape and murder, but Senior Inspector Saralkar and PSI Motkar find themselves probing further delving deeper.",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"Salil Desai",
+      "price": 189,
+      "section": "Mystery",
+      "isbnNumber": 9788172345679
+    },
+    {
+      "title":"The Age of AI: And Our Human Future",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/31XnCvrGC2L._SX320_BO1,204,203,200_.jpg",
+      "description":"Three of the world’s most accomplished and deep thinkers come together to explore Artificial Intelligence (AI) and the way it is transforming human society—and what this technology means for us all.",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"Henry Kissinger",
+      "price": 219,
+      "section": "Technology",
+      "isbnNumber": 316273805
+    },
+    {
+      "title":"AI 2041: Ten Visions for Our Future",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/31cEOnpInQL._SX329_BO1,204,203,200_.jpg",
+      "description":"How will artificial intelligence change our world within twenty years?",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"Kai-Fu Lee",
+      "price": 249,
+      "section": "Technology",
+      "isbnNumber": 59323829
+    },
+    {
+      "title":"The Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41nuC-rfvyL._SX329_BO1,204,203,200_.jpg",
+      "description":"As indispensable as it is gripping, The Future Is Faster Than You Think provides a prescient look at our impending future.",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"Peter H. Diamandis",
+      "price": 549,
+      "section": "Technology",
+      "isbnNumber": 1982109661
+    },
+    {
+      "title":"Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51iw9AITfbL._SX331_BO1,204,203,200_.jpg",
+      "description":"AI-centric organizations exhibit a new operating architecture, redefining how they create, capture, share, and deliver value.",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"Marco Iansiti",
+      "price": 349,
+      "section": "Technology",
+      "isbnNumber": 1633697622
+    },
+    {
+      "title":"The Supernaturals: A Book of Mythology & Horror",
+      "imageUrl":"https://images-eu.ssl-images-amazon.com/images/I/411bAD5YY5S._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "description":"This book contains several information about different mythological gods including Greek, Egyptian and other gods and other Holy creatures whereas it also has another section that includes information about some famous demons, witches and other creatures from hell that has been mentioned in several mythological texts in the world.",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"KARAN MOHAN THAKUR",
+      "price": 311,
+      "section": "Mythology",
+      "isbnNumber": 1637140614
+    },
+    {
+      "title":"The Hidden Hindu",
+      "imageUrl":"https://images-eu.ssl-images-amazon.com/images/I/51pZWKAG3WL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "description":"Prithvi, a twenty-one-year-old, is searching for a mysterious middle-aged aghori (Shiva devotee), Om Shastri, who was traced more than 200 years ago before he was captured and transported to a high-tech facility on an isolated Indian island.",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"Akshat Gupta",
+      "price": 210,
+      "section": "Mythology",
+      "isbnNumber": 143455699
+    },
+    {
+      "title":"Shiva Origins: The Son of Ganga",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/514pbAgPLZL._SX322_BO1,204,203,200_.jpg",
+      "description":"Abhay Sharma, a young college student, is on a mission to uncover the secrets of the ancient Chola kingdom. But things are not going as planned. He, instead, awakens a supreme evil and there’s only one way to save planet Earth.",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"Dinesh Veera",
+      "price": 207,
+      "section": "Mythology",
+      "isbnNumber": 9387780929
+    },
+    {
+      "title":"Ashwatthama's Redemption: The Rise of Dandak",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51ovZdWGR7L._SX326_BO1,204,203,200_.jpg",
+      "description":"Over a hundred years after the Mahabharata War, an ancient power threatens to destroy the new Age of Men, by establishing the Age of Terror of the asuras, long believed to be extinct. the only hurdle in its path is Guru Dronacharya’s son, the mighty but accursed warrior",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"Gunjan Porwal",
+      "price": 187,
+      "section": "Mythology",
+      "isbnNumber": 98736392
+    },
+    {
+      "title":"A Short History of the World",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51EuysBM-SS._SX460_BO1,204,203,200_.jpg",
+      "description":"The story of our world is a story that is stillvery imperfectly known. From the very beginnings of life, spanning across the age of mammals evolving into monkeys, apes and sub-men",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"H. G. Wells",
+      "price": 179,
+      "section": "History",
+      "isbnNumber": 943639926
+    },
+    {
+      "title":"Bose: The Untold Story of an Inconvenient Nationalist",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41h7ZewnlcL._SX323_BO1,204,203,200_.jpg",
+      "description":"There are not many Indian heroes whose lives have been as dramatic and adventurous as that of Netaji Subhas Chandra Bose. That, however, is an assessment of his life based on what is widely known about him",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"Chandrachur Ghose",
+      "price": 550,
+      "section": "History",
+      "isbnNumber": 9086529
+    },
+    {
+      "title":"Your Prime Minister is Dead",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41kIFK2jExL._SX322_BO1,204,203,200_.jpg",
+      "description":"When Lalita Shastri saw her husband’s body, it did not appear he had been dead only a few hours. His face was dark bluish and swollen. The body was bloated and it bore strange cut marks. The sheets, pillows and the clothes were all soaked in blood",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"Anuj Dhar",
+      "price": 272,
+      "section": "History",
+      "isbnNumber": 912755256
+    },
+    {
+      "title":"Political Mysteries: Through this book, explains various political issues which had drastic effects on the world.",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41LkZOo9qCL._SX361_BO1,204,203,200_.jpg",
+      "description":"The author, Mr. K.R. Malkani. Through this book, explains various political issues which had drastic effects on the world. Who hatched the conspiracy of killing Mahatma Gandhi? How the former prime minister of India. ",
+      "reviews":[
+          "multiple reviews here"
+      ],
+      "author":"K. R. Malkani",
+      "price": 248,
+      "section": "History",
+      "isbnNumber": 965932520
+    }
+  ]
+}
