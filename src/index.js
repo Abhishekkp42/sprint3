@@ -9,9 +9,9 @@ import {BookContextFun} from "./context/BookContext"
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
-    <BookContextFun>
-    <App />
-    </BookContextFun>
+      <BookContextFun>
+        <App />
+      </BookContextFun>
     </BrowserRouter>
     
   </React.StrictMode>,
